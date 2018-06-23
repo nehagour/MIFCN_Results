@@ -1,6 +1,6 @@
 
 # OCT Denoising Results
-OCT denoising results of the proposed [MIFCN method](https://github.com/ashkan-abbasi66/MIFCN) and the compared methods<br><br>
+OCT denoising results of the proposed [MIFCN method](https://github.com/ashkan-abbasi66/MIFCN) and the compared methods<br> The outputs of each method is saved in a folder entitled `<method>`. E.g., `BM3D`<br>
 # Compared methods
 The proposed MIFCN method is compared with some of the well-known state-of-the-art denoising methods from the literature. The comparison methods include: K-SVD denoising algorithm [1], BM3D [2], SAIST [3], PG-GMM [4], BM4D [5], and SSR [6].
 
